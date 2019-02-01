@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+	
+	<button id="on" name="on" onclick='location.href="?on=1"'> ON </button> <br /> <br />
+	<button id="off" name="off" onclick='location.href="?off=1"'> OFF </button-->
+	<?php 
+		if($_GET['on']){on();}
+		if($_GET['off']){off();}
+		function on()
+		{
+			echo shell_exec("sudo /var/www/ex/P11_on 2>&1");
+		}
+		function off()
+		{
+			echo shell_exec("sudo /var/www/ex/P11_off 2>&1");
+		}
+	?>
+</body>
+</html>
+
+
+<!--  
+www-data:x:33:33:www-data:/var/www:/usr/sbin/nologin
+-->
+<!--php
+		if(isset($_POST['on'])) {on();}
+		if(isset($_POST['off'])) {off();}
+		function on()
+		{
+			echo "ON";
+		}
+		function off()
+		{
+			echo "OFF";
+		}
+	?--> 
+	<!--form action="" method="post"-->
+
+	<!--input type="button" name="on" value="ON" />
+	<input type="button" name="off" value="OFF" />
+	</form-->

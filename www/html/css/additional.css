@@ -1,0 +1,17 @@
+@import url('font-awesome.min.css');
+.bg-dark {
+    background-color: #343a40!important;
+}
+
+.nforajax {
+	cursor: pointer;
+}
+
+#debug {
+	color: #DC143C!important;
+	cursor: no-drop;
+}
+
+.logtext {
+	font-family: monospace;
+}

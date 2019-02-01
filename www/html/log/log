@@ -1,0 +1,389 @@
+2018-01-11 04:00:10 pm  ==  [192.168.1.2] init - PINs Init
+2018-01-11 04:00:19 pm  ==  [192.168.1.2] bon  - Pin11 LOW (relay 1 ON)
+2018-01-11 04:00:20 pm  ==  [192.168.1.2] boff - Pin11 HIGH (relay 1 OFF)
+2018-01-11 04:00:21 pm  ==  [192.168.1.2] foff - Pin13 HIGH (relay 2 OFF)
+2018-01-11 04:00:23 pm  ==  [192.168.1.2] xoff - Pin15 HIGH (relay 3 OFF)
+2018-01-11 04:01:23 pm  ==  [192.168.1.2] init - PINs Init
+2018-01-11 04:01:24 pm  ==  [192.168.1.2] boff - Pin11 HIGH (relay 1 OFF)
+2018-01-11 04:01:25 pm  ==  [192.168.1.2] bon  - Pin11 LOW (relay 1 ON)
+2018-01-11 04:01:26 pm  ==  [192.168.1.2] bon  - Pin11 LOW (relay 1 ON)
+2018-01-11 04:01:27 pm  ==  [192.168.1.2] boff - Pin11 HIGH (relay 1 OFF)
+2018-01-11 04:03:24 pm  ==  [192.168.1.2] bauto  - No verbose. (b) Auto mode!
+2018-01-11 04:03:24 pm  ==  [192.168.1.2] init - PINs Init
+2018-01-11 04:04:18 pm  ==  [192.168.1.3] init - PINs Init
+2018-01-11 04:04:49 pm  ==  [192.168.1.3] bon  - Pin11 LOW (relay 1 ON)
+2018-01-11 04:04:50 pm  ==  [192.168.1.3] bon  - Pin11 LOW (relay 1 ON)
+2018-01-11 04:04:51 pm  ==  [192.168.1.3] boff - Pin11 HIGH (relay 1 OFF)
+2018-01-11 04:04:53 pm  ==  [192.168.1.3] bon  - Pin11 LOW (relay 1 ON)
+2018-01-11 04:05:02 pm  ==  [192.168.1.3] bon  - Pin11 LOW (relay 1 ON)
+2018-01-11 04:05:03 pm  ==  [192.168.1.3] bon  - Pin11 LOW (relay 1 ON)
+2018-01-11 04:05:05 pm  ==  [192.168.1.3] fon  - Pin13 LOW (relay 2 ON)
+2018-01-11 04:05:06 pm  ==  [192.168.1.3] bon  - Pin11 LOW (relay 1 ON)
+2018-01-11 04:05:09 pm  ==  [192.168.1.3] boff - Pin11 HIGH (relay 1 OFF)
+2018-01-11 04:05:11 pm  ==  [192.168.1.3] bon  - Pin11 LOW (relay 1 ON)
+2018-01-11 04:05:14 pm  ==  [192.168.1.3] xon  - Pin15 LOW (relay 3 ON)
+2018-01-11 04:05:30 pm  ==  [192.168.1.3] xoff - Pin15 HIGH (relay 3 OFF)
+2018-01-11 04:05:31 pm  ==  [192.168.1.3] foff - Pin13 HIGH (relay 2 OFF)
+2018-01-11 04:05:32 pm  ==  [192.168.1.3] foff - Pin13 HIGH (relay 2 OFF)
+2018-01-11 04:05:50 pm  ==  [192.168.1.3] bon  - Pin11 LOW (relay 1 ON)
+2018-01-11 04:05:51 pm  ==  [192.168.1.3] bon  - Pin11 LOW (relay 1 ON)
+2018-01-11 04:06:19 pm  ==  [192.168.1.3] bauto  - No verbose. (b) Auto mode!
+2018-01-11 04:06:19 pm  ==  [192.168.1.3] bauto  - No verbose. (b) Auto mode!
+2018-01-11 04:06:19 pm  ==  [192.168.1.3] init - PINs Init
+2018-01-11 04:06:28 pm  ==  [192.168.1.3] bon  - Pin11 LOW (relay 1 ON)
+2018-01-11 04:06:30 pm  ==  [192.168.1.3] boff - Pin11 HIGH (relay 1 OFF)
+2018-01-11 04:06:53 pm  ==  [192.168.1.3] bauto  - No verbose. (b) Auto mode!
+2018-01-11 04:06:54 pm  ==  [192.168.1.3] init - PINs Init
+2018-01-11 04:07:13 pm  ==  [192.168.1.3] bon  - Pin11 LOW (relay 1 ON)
+2018-01-11 04:07:20 pm  ==  [192.168.1.3] bon  - Pin11 LOW (relay 1 ON)
+2018-01-11 04:07:26 pm  ==  [192.168.1.3] bauto  - No verbose. (b) Auto mode!
+2018-01-11 04:07:26 pm  ==  [192.168.1.3] init - PINs Init
+2018-01-11 04:08:05 pm  ==  [192.168.1.2] init - PINs Init
+2018-01-11 04:12:51 pm  ==  [192.168.1.2] bon  - Pin11 LOW (relay 1 ON)
+2018-01-11 04:12:51 pm  ==  [192.168.1.2] bon  - Pin11 LOW (relay 1 ON)
+2018-01-11 04:12:51 pm  ==  [192.168.1.2] bon  - Pin11 LOW (relay 1 ON)
+2018-01-11 04:12:51 pm  ==  [192.168.1.2] bon  - Pin11 LOW (relay 1 ON)
+2018-01-11 04:12:51 pm  ==  [192.168.1.2] bon  - Pin11 LOW (relay 1 ON)
+2018-01-11 04:12:52 pm  ==  [192.168.1.2] boff - Pin11 HIGH (relay 1 OFF)
+2018-01-11 04:12:52 pm  ==  [192.168.1.2] bon  - Pin11 LOW (relay 1 ON)
+2018-01-11 04:12:52 pm  ==  [192.168.1.2] bon  - Pin11 LOW (relay 1 ON)
+2018-01-11 04:12:58 pm  ==  [192.168.1.2] init - PINs Init
+2018-01-11 04:13:01 pm  ==  [192.168.1.2] bon  - Pin11 LOW (relay 1 ON)
+2018-01-11 04:13:01 pm  ==  [192.168.1.2] bon  - Pin11 LOW (relay 1 ON)
+2018-01-11 04:13:02 pm  ==  [192.168.1.2] boff - Pin11 HIGH (relay 1 OFF)
+2018-01-11 04:14:33 pm  ==  [192.168.1.2] init - PINs Init
+2018-01-11 04:21:39 pm  ==  [192.168.1.2] init - PINs Init
+2018-01-11 04:22:16 pm  ==  [192.168.1.2] init - PINs Init
+2018-01-11 04:22:18 pm  ==  [192.168.1.2] init - PINs Init
+2018-01-11 04:22:21 pm  ==  [192.168.1.2] init - PINs Init
+2018-01-11 04:23:17 pm  ==  [192.168.1.2] init - PINs Init
+2018-01-11 04:24:03 pm  ==  [192.168.1.2] bon  - Pin11 LOW (relay 1 ON)
+2018-01-11 04:24:25 pm  ==  [192.168.1.2] init - PINs Init
+2018-01-11 04:24:27 pm  ==  [192.168.1.2] boff - Pin11 HIGH (relay 1 OFF)
+2018-01-11 04:24:29 pm  ==  [192.168.1.2] bon  - Pin11 LOW (relay 1 ON)
+2018-01-11 04:24:39 pm  ==  [192.168.1.2] baut - No verbose. (b) Auto mode!
+2018-01-11 04:24:39 pm  ==  [192.168.1.2] bon  - Pin11 LOW (relay 1 ON)
+2018-01-11 04:24:54 pm  ==  [192.168.1.2] foff - Pin13 HIGH (relay 2 OFF)
+2018-01-11 04:24:58 pm  ==  [192.168.1.2] fon  - Pin13 LOW (relay 2 ON)
+2018-01-11 04:24:59 pm  ==  [192.168.1.2] fon  - Pin13 LOW (relay 2 ON)
+2018-01-11 04:25:01 pm  ==  [192.168.1.2] baut - No verbose. (b) Auto mode!
+2018-01-11 04:25:01 pm  ==  [192.168.1.2] bon  - Pin11 LOW (relay 1 ON)
+2018-01-11 04:25:04 pm  ==  [192.168.1.2] xon  - Pin15 LOW (relay 3 ON)
+2018-01-11 04:25:42 pm  ==  [192.168.1.2] boff - Pin11 HIGH (relay 1 OFF)
+2018-01-11 04:25:42 pm  ==  [192.168.1.2] foff - Pin13 HIGH (relay 2 OFF)
+2018-01-11 04:25:43 pm  ==  [192.168.1.2] xoff - Pin15 HIGH (relay 3 OFF)
+2018-01-11 04:35:24 pm  ==  [192.168.1.2] init - PINs Init
+2018-01-24 06:33:34 pm  ==  [192.168.43.1] init - PINs Init
+2018-01-24 06:33:40 pm  ==  [192.168.43.1] boff - Pin11 HIGH (relay 1 OFF)
+2018-01-24 06:33:41 pm  ==  [192.168.43.1] bon  - Pin11 LOW (relay 1 ON)
+2018-01-24 06:33:42 pm  ==  [192.168.43.1] boff - Pin11 HIGH (relay 1 OFF)
+2018-01-24 06:33:45 pm  ==  [192.168.43.1] foff - Pin13 HIGH (relay 2 OFF)
+2018-01-24 06:33:46 pm  ==  [192.168.43.1] foff - Pin13 HIGH (relay 2 OFF)
+2018-01-24 06:33:48 pm  ==  [192.168.43.1] xoff - Pin15 HIGH (relay 3 OFF)
+2018-01-24 06:34:16 pm  ==  [192.168.43.1] bon  - Pin11 LOW (relay 1 ON)
+2018-01-24 06:34:21 pm  ==  [192.168.43.1] fon  - Pin13 LOW (relay 2 ON)
+2018-01-24 06:34:23 pm  ==  [192.168.43.1] fon  - Pin13 LOW (relay 2 ON)
+2018-01-24 06:34:23 pm  ==  [192.168.43.1] fon  - Pin13 LOW (relay 2 ON)
+2018-01-24 06:34:29 pm  ==  [192.168.43.1] xon  - Pin15 LOW (relay 3 ON)
+2018-01-24 06:34:46 pm  ==  [192.168.43.1] fon  - Pin13 LOW (relay 2 ON)
+2018-01-24 06:34:46 pm  ==  [192.168.43.1] fon  - Pin13 LOW (relay 2 ON)
+2018-01-24 06:34:46 pm  ==  [192.168.43.1] fon  - Pin13 LOW (relay 2 ON)
+2018-01-24 06:34:47 pm  ==  [192.168.43.1] fon  - Pin13 LOW (relay 2 ON)
+2018-01-24 06:34:47 pm  ==  [192.168.43.1] fon  - Pin13 LOW (relay 2 ON)
+2018-01-24 06:34:47 pm  ==  [192.168.43.1] fon  - Pin13 LOW (relay 2 ON)
+2018-01-24 06:34:48 pm  ==  [192.168.43.1] fon  - Pin13 LOW (relay 2 ON)
+2018-01-24 06:35:55 pm  ==  [192.168.43.1] fon  - Pin13 LOW (relay 2 ON)
+2018-01-24 06:35:55 pm  ==  [192.168.43.1] foff - Pin13 HIGH (relay 2 OFF)
+2018-01-24 06:35:57 pm  ==  [192.168.43.1] boff - Pin11 HIGH (relay 1 OFF)
+2018-01-24 06:35:59 pm  ==  [192.168.43.1] xoff - Pin15 HIGH (relay 3 OFF)
+2018-01-24 06:36:23 pm  ==  [192.168.43.1] bon  - Pin11 LOW (relay 1 ON)
+2018-01-24 06:36:27 pm  ==  [192.168.43.1] fon  - Pin13 LOW (relay 2 ON)
+2018-01-24 06:36:39 pm  ==  [192.168.43.1] xon  - Pin15 LOW (relay 3 ON)
+2018-01-24 06:36:52 pm  ==  [192.168.43.1] xoff - Pin15 HIGH (relay 3 OFF)
+2018-01-24 06:36:55 pm  ==  [192.168.43.1] xoff - Pin15 HIGH (relay 3 OFF)
+2018-01-24 06:37:03 pm  ==  [192.168.43.1] foff - Pin13 HIGH (relay 2 OFF)
+2018-01-24 06:37:05 pm  ==  [192.168.43.1] boff - Pin11 HIGH (relay 1 OFF)
+2018-01-24 06:52:25 pm  ==  [192.168.43.1] baut - No verbose. (b) Auto mode!
+2018-01-24 06:52:25 pm  ==  [192.168.43.1] baut - No verbose. (b) Auto mode!
+2018-01-24 06:52:25 pm  ==  [192.168.43.1] baut - No verbose. (b) Auto mode!
+2018-01-24 06:52:25 pm  ==  [192.168.43.1] baut - No verbose. (b) Auto mode!
+2018-01-24 06:52:51 pm  ==  [192.168.43.1] init - PINs Init
+2018-01-24 06:53:07 pm  ==  [192.168.43.1] boff - Pin11 HIGH (relay 1 OFF)
+2018-01-24 06:53:09 pm  ==  [192.168.43.1] foff - Pin13 HIGH (relay 2 OFF)
+2018-01-24 06:53:10 pm  ==  [192.168.43.1] xoff - Pin15 HIGH (relay 3 OFF)
+2018-01-24 06:53:13 pm  ==  [192.168.43.1] xon  - Pin15 LOW (relay 3 ON)
+2018-01-24 06:53:14 pm  ==  [192.168.43.1] fon  - Pin13 LOW (relay 2 ON)
+2018-01-24 06:53:16 pm  ==  [192.168.43.1] bon  - Pin11 LOW (relay 1 ON)
+2018-01-24 06:53:24 pm  ==  [192.168.43.1] baut - No verbose. (b) Auto mode!
+2018-01-24 06:53:24 pm  ==  [192.168.43.1] boff - Pin11 HIGH (relay 1 OFF)
+2018-01-24 06:53:26 pm  ==  [192.168.43.1] foff - Pin13 HIGH (relay 2 OFF)
+2018-01-24 06:53:28 pm  ==  [192.168.43.1] xoff - Pin15 HIGH (relay 3 OFF)
+2018-01-24 06:54:34 pm  ==  [192.168.43.1] init - PINs Init
+2018-01-24 07:58:16 pm  ==  [192.168.43.1] bon  - Pin11 LOW (relay 1 ON)
+2018-01-24 07:58:17 pm  ==  [192.168.43.1] boff - Pin11 HIGH (relay 1 OFF)
+2018-01-24 07:58:19 pm  ==  [192.168.43.1] foff - Pin13 HIGH (relay 2 OFF)
+2018-01-24 07:58:21 pm  ==  [192.168.43.1] xoff - Pin15 HIGH (relay 3 OFF)
+2018-01-24 08:47:14 pm  ==  [192.168.43.1] init - PINs Init
+2018-01-24 08:47:36 pm  ==  [192.168.43.1] bon  - Pin11 LOW (relay 1 ON)
+2018-01-24 08:47:39 pm  ==  [192.168.43.1] foff - Pin13 HIGH (relay 2 OFF)
+2018-01-24 08:47:43 pm  ==  [192.168.43.1] xoff - Pin15 HIGH (relay 3 OFF)
+2018-01-24 08:47:46 pm  ==  [192.168.43.1] boff - Pin11 HIGH (relay 1 OFF)
+2018-01-24 08:47:47 pm  ==  [192.168.43.1] bon  - Pin11 LOW (relay 1 ON)
+2018-01-24 08:47:49 pm  ==  [192.168.43.1] fon  - Pin13 LOW (relay 2 ON)
+2018-01-24 08:47:51 pm  ==  [192.168.43.1] xoff - Pin15 HIGH (relay 3 OFF)
+2018-01-24 08:47:51 pm  ==  [192.168.43.1] xoff - Pin15 HIGH (relay 3 OFF)
+2018-01-24 08:49:24 pm  ==  [192.168.43.1] init - PINs Init
+2018-01-24 08:49:27 pm  ==  [192.168.43.1] bon  - Pin11 LOW (relay 1 ON)
+2018-01-24 08:49:28 pm  ==  [192.168.43.1] boff - Pin11 HIGH (relay 1 OFF)
+2018-01-24 08:49:29 pm  ==  [192.168.43.1] foff - Pin13 HIGH (relay 2 OFF)
+2018-01-24 08:49:31 pm  ==  [192.168.43.1] xoff - Pin15 HIGH (relay 3 OFF)
+2018-01-24 08:49:32 pm  ==  [192.168.43.1] xon  - Pin15 LOW (relay 3 ON)
+2018-01-24 08:49:34 pm  ==  [192.168.43.1] fon  - Pin13 LOW (relay 2 ON)
+2018-01-24 08:49:35 pm  ==  [192.168.43.1] bon  - Pin11 LOW (relay 1 ON)
+2018-01-24 08:49:50 pm  ==  [192.168.43.1] boff - Pin11 HIGH (relay 1 OFF)
+2018-01-24 08:49:51 pm  ==  [192.168.43.1] bon  - Pin11 LOW (relay 1 ON)
+2018-01-24 08:49:52 pm  ==  [192.168.43.1] boff - Pin11 HIGH (relay 1 OFF)
+2018-01-24 08:49:53 pm  ==  [192.168.43.1] foff - Pin13 HIGH (relay 2 OFF)
+2018-01-24 08:49:55 pm  ==  [192.168.43.1] xoff - Pin15 HIGH (relay 3 OFF)
+2018-01-24 09:07:14 pm  ==  [::1] init - PINs Init
+2018-01-24 09:08:46 pm  ==  [::1] boff - Pin11 HIGH (relay 1 OFF)
+2018-01-24 09:11:34 pm  ==  [::1] baut - No verbose. (b) Auto mode!
+2018-01-24 09:16:52 pm  ==  [127.0.0.1] init - PINs Init
+2018-01-24 09:17:03 pm  ==  [198.168.43.2] init - PINs Init
+2018-01-25 11:59:20 am  ==  [::1] init - PINs Init
+2018-01-25 12:00:26 pm  ==  [::1] boff - Pin11 HIGH (relay 1 OFF)
+2018-01-25 12:00:28 pm  ==  [::1] foff - Pin13 HIGH (relay 2 OFF)
+2018-01-25 12:00:29 pm  ==  [::1] xoff - Pin15 HIGH (relay 3 OFF)
+2018-01-25 12:01:41 pm  ==  [192.168.43.2] init - PINs Init
+2018-01-25 12:01:52 pm  ==  [192.168.43.2] fon  - Pin13 LOW (relay 2 ON)
+2018-01-25 12:01:53 pm  ==  [192.168.43.2] fon  - Pin13 LOW (relay 2 ON)
+2018-01-25 12:01:53 pm  ==  [192.168.43.2] foff - Pin13 HIGH (relay 2 OFF)
+2018-01-25 12:01:54 pm  ==  [192.168.43.2] fon  - Pin13 LOW (relay 2 ON)
+2018-01-25 12:01:56 pm  ==  [192.168.43.2] bon  - Pin11 LOW (relay 1 ON)
+2018-01-25 12:02:00 pm  ==  [192.168.43.2] boff - Pin11 HIGH (relay 1 OFF)
+2018-01-25 12:02:04 pm  ==  [192.168.43.2] bon  - Pin11 LOW (relay 1 ON)
+2018-01-25 12:02:08 pm  ==  [192.168.43.2] xon  - Pin15 LOW (relay 3 ON)
+2018-01-25 12:04:52 pm  ==  [192.168.43.2] init - PINs Init
+2018-01-25 12:05:07 pm  ==  [192.168.43.2] init - PINs Init
+2018-01-25 12:08:12 pm  ==  [192.168.43.1] init - PINs Init
+2018-01-25 12:08:17 pm  ==  [192.168.43.1] boff - Pin11 HIGH (relay 1 OFF)
+2018-01-25 12:08:19 pm  ==  [192.168.43.1] foff - Pin13 HIGH (relay 2 OFF)
+2018-01-25 12:08:21 pm  ==  [192.168.43.1] xoff - Pin15 HIGH (relay 3 OFF)
+2018-01-25 06:06:45 pm  ==  [192.168.43.1] init - PINs Init
+2018-01-25 06:08:06 pm  ==  [192.168.43.1] init - PINs Init
+2018-01-25 06:12:33 pm  ==  [192.168.43.1] init - PINs Init
+2018-01-25 06:13:58 pm  ==  [192.168.43.1] boff - Pin11 HIGH (relay 1 OFF)
+2018-01-25 06:13:59 pm  ==  [192.168.43.1] bon  - Pin11 LOW (relay 1 ON)
+2018-01-25 06:14:01 pm  ==  [192.168.43.1] boff - Pin11 HIGH (relay 1 OFF)
+2018-01-25 06:14:02 pm  ==  [192.168.43.1] bon  - Pin11 LOW (relay 1 ON)
+2018-01-25 06:14:03 pm  ==  [192.168.43.1] boff - Pin11 HIGH (relay 1 OFF)
+2018-01-25 06:14:04 pm  ==  [192.168.43.1] bon  - Pin11 LOW (relay 1 ON)
+2018-01-25 06:14:04 pm  ==  [192.168.43.1] boff - Pin11 HIGH (relay 1 OFF)
+2018-01-25 06:14:06 pm  ==  [192.168.43.1] bon  - Pin11 LOW (relay 1 ON)
+2018-01-25 06:14:06 pm  ==  [192.168.43.1] bon  - Pin11 LOW (relay 1 ON)
+2018-01-25 06:14:07 pm  ==  [192.168.43.1] boff - Pin11 HIGH (relay 1 OFF)
+2018-01-25 06:14:08 pm  ==  [192.168.43.1] bon  - Pin11 LOW (relay 1 ON)
+2018-01-25 06:17:38 pm  ==  [192.168.43.1] baut - No verbose. (b) Auto mode!
+2018-01-25 06:17:38 pm  ==  [192.168.43.1] boff - Pin11 HIGH (relay 1 OFF)
+2018-01-25 06:17:40 pm  ==  [192.168.43.1] baut - No verbose. (b) Auto mode!
+2018-01-25 06:17:40 pm  ==  [192.168.43.1] bon  - Pin11 LOW (relay 1 ON)
+2018-01-25 06:17:40 pm  ==  [192.168.43.1] bon  - Pin11 LOW (relay 1 ON)
+2018-01-25 06:17:40 pm  ==  [192.168.43.1] bon  - Pin11 LOW (relay 1 ON)
+2018-01-25 06:18:30 pm  ==  [192.168.43.1] boff - Pin11 HIGH (relay 1 OFF)
+2018-01-25 06:18:31 pm  ==  [192.168.43.1] boff - Pin11 HIGH (relay 1 OFF)
+2018-01-25 06:18:32 pm  ==  [192.168.43.1] bon  - Pin11 LOW (relay 1 ON)
+2018-01-25 06:18:33 pm  ==  [192.168.43.1] foff - Pin13 HIGH (relay 2 OFF)
+2018-01-25 06:18:35 pm  ==  [192.168.43.1] fon  - Pin13 LOW (relay 2 ON)
+2018-01-25 06:18:38 pm  ==  [192.168.43.1] xon  - Pin15 LOW (relay 3 ON)
+2018-01-25 06:18:39 pm  ==  [192.168.43.1] xoff - Pin15 HIGH (relay 3 OFF)
+2018-01-25 06:18:40 pm  ==  [192.168.43.1] xon  - Pin15 LOW (relay 3 ON)
+2018-01-25 06:18:46 pm  ==  [192.168.43.1] boff - Pin11 HIGH (relay 1 OFF)
+2018-01-25 06:18:47 pm  ==  [192.168.43.1] foff - Pin13 HIGH (relay 2 OFF)
+2018-01-25 06:18:49 pm  ==  [192.168.43.1] xoff - Pin15 HIGH (relay 3 OFF)
+2018-01-25 07:00:13 pm  ==  [192.168.43.195] init - PINs Init
+2018-01-25 07:00:18 pm  ==  [192.168.43.195] boff - Pin11 HIGH (relay 1 OFF)
+2018-01-25 07:00:20 pm  ==  [192.168.43.195] boff - Pin11 HIGH (relay 1 OFF)
+2018-01-25 07:00:22 pm  ==  [192.168.43.195] bon  - Pin11 LOW (relay 1 ON)
+2018-01-25 07:00:25 pm  ==  [192.168.43.195] foff - Pin13 HIGH (relay 2 OFF)
+2018-01-25 07:00:27 pm  ==  [192.168.43.195] fon  - Pin13 LOW (relay 2 ON)
+2018-01-25 07:00:30 pm  ==  [192.168.43.195] xoff - Pin15 HIGH (relay 3 OFF)
+2018-01-25 07:00:32 pm  ==  [192.168.43.195] xon  - Pin15 LOW (relay 3 ON)
+2018-01-25 07:00:52 pm  ==  [192.168.43.195] boff - Pin11 HIGH (relay 1 OFF)
+2018-01-25 07:00:53 pm  ==  [192.168.43.195] bon  - Pin11 LOW (relay 1 ON)
+2018-01-25 07:00:56 pm  ==  [192.168.43.195] foff - Pin13 HIGH (relay 2 OFF)
+2018-01-25 07:00:57 pm  ==  [192.168.43.195] fon  - Pin13 LOW (relay 2 ON)
+2018-01-25 07:01:06 pm  ==  [192.168.43.195] foff - Pin13 HIGH (relay 2 OFF)
+2018-01-25 07:01:07 pm  ==  [192.168.43.195] fon  - Pin13 LOW (relay 2 ON)
+2018-01-25 07:01:07 pm  ==  [192.168.43.195] foff - Pin13 HIGH (relay 2 OFF)
+2018-01-25 07:01:08 pm  ==  [192.168.43.195] fon  - Pin13 LOW (relay 2 ON)
+2018-01-25 07:01:08 pm  ==  [192.168.43.195] foff - Pin13 HIGH (relay 2 OFF)
+2018-01-25 07:01:09 pm  ==  [192.168.43.195] fon  - Pin13 LOW (relay 2 ON)
+2018-01-25 07:01:10 pm  ==  [192.168.43.195] foff - Pin13 HIGH (relay 2 OFF)
+2018-01-25 07:01:11 pm  ==  [192.168.43.195] fon  - Pin13 LOW (relay 2 ON)
+2018-01-25 07:01:12 pm  ==  [192.168.43.195] boff - Pin11 HIGH (relay 1 OFF)
+2018-01-25 07:01:13 pm  ==  [192.168.43.195] bon  - Pin11 LOW (relay 1 ON)
+2018-01-25 07:01:48 pm  ==  [192.168.43.195] boff - Pin11 HIGH (relay 1 OFF)
+2018-01-25 07:01:49 pm  ==  [192.168.43.195] boff - Pin11 HIGH (relay 1 OFF)
+2018-01-25 07:01:52 pm  ==  [192.168.43.195] bon  - Pin11 LOW (relay 1 ON)
+2018-01-25 07:01:53 pm  ==  [192.168.43.195] boff - Pin11 HIGH (relay 1 OFF)
+2018-01-25 07:02:01 pm  ==  [192.168.43.195] foff - Pin13 HIGH (relay 2 OFF)
+2018-01-25 07:02:08 pm  ==  [192.168.43.195] xoff - Pin15 HIGH (relay 3 OFF)
+2018-01-25 07:02:10 pm  ==  [192.168.43.195] xon  - Pin15 LOW (relay 3 ON)
+2018-01-25 07:02:12 pm  ==  [192.168.43.195] fon  - Pin13 LOW (relay 2 ON)
+2018-01-25 07:02:14 pm  ==  [192.168.43.195] bon  - Pin11 LOW (relay 1 ON)
+2018-01-25 07:03:45 pm  ==  [192.168.43.195] boff - Pin11 HIGH (relay 1 OFF)
+2018-01-25 07:03:55 pm  ==  [192.168.43.195] bon  - Pin11 LOW (relay 1 ON)
+2018-01-25 07:04:03 pm  ==  [192.168.43.195] foff - Pin13 HIGH (relay 2 OFF)
+2018-01-25 07:04:09 pm  ==  [192.168.43.195] fon  - Pin13 LOW (relay 2 ON)
+2018-01-25 07:04:21 pm  ==  [192.168.43.195] xoff - Pin15 HIGH (relay 3 OFF)
+2018-01-25 07:04:29 pm  ==  [192.168.43.195] xon  - Pin15 LOW (relay 3 ON)
+2018-01-25 07:04:37 pm  ==  [192.168.43.195] xoff - Pin15 HIGH (relay 3 OFF)
+2018-01-25 07:04:38 pm  ==  [192.168.43.195] foff - Pin13 HIGH (relay 2 OFF)
+2018-01-25 07:04:39 pm  ==  [192.168.43.195] boff - Pin11 HIGH (relay 1 OFF)
+2018-01-25 07:04:43 pm  ==  [192.168.43.195] xon  - Pin15 LOW (relay 3 ON)
+2018-01-25 07:04:51 pm  ==  [192.168.43.195] baut - No verbose. (b) Auto mode!
+2018-01-25 07:04:51 pm  ==  [192.168.43.195] baut - No verbose. (b) Auto mode!
+2018-01-25 07:04:51 pm  ==  [192.168.43.195] fon  - Pin13 LOW (relay 2 ON)
+2018-01-25 07:04:53 pm  ==  [192.168.43.195] foff - Pin13 HIGH (relay 2 OFF)
+2018-01-25 07:04:58 pm  ==  [192.168.43.195] xoff - Pin15 HIGH (relay 3 OFF)
+2018-01-26 01:06:55 pm  ==  [192.168.43.1] init - PINs Init
+2018-01-26 01:07:41 pm  ==  [192.168.43.1] boff - Pin11 HIGH (relay 1 OFF)
+2018-01-26 01:07:42 pm  ==  [192.168.43.1] bon  - Pin11 LOW (relay 1 ON)
+2018-01-26 01:07:45 pm  ==  [192.168.43.1] boff - Pin11 HIGH (relay 1 OFF)
+2018-01-26 01:07:46 pm  ==  [192.168.43.1] bon  - Pin11 LOW (relay 1 ON)
+2018-01-26 01:07:49 pm  ==  [192.168.43.1] fon  - Pin13 LOW (relay 2 ON)
+2018-01-26 01:07:49 pm  ==  [192.168.43.1] foff - Pin13 HIGH (relay 2 OFF)
+2018-01-26 01:07:50 pm  ==  [192.168.43.1] foff - Pin13 HIGH (relay 2 OFF)
+2018-01-26 01:08:00 pm  ==  [192.168.43.1] fon  - Pin13 LOW (relay 2 ON)
+2018-01-26 01:20:09 pm  ==  [192.168.43.1] baut - No verbose. (b) Auto mode!
+2018-01-26 01:20:09 pm  ==  [192.168.43.1] baut - No verbose. (b) Auto mode!
+2018-01-26 01:20:09 pm  ==  [192.168.43.1] baut - No verbose. (b) Auto mode!
+2018-01-26 01:20:09 pm  ==  [192.168.43.1] baut - No verbose. (b) Auto mode!
+2018-01-26 01:20:30 pm  ==  [192.168.43.1] init - PINs Init
+2018-01-26 01:20:34 pm  ==  [192.168.43.1] boff - Pin11 HIGH (relay 1 OFF)
+2018-01-26 01:20:37 pm  ==  [192.168.43.1] bon  - Pin11 LOW (relay 1 ON)
+2018-01-26 01:21:49 pm  ==  [192.168.43.1] baut - No verbose. (b) Auto mode!
+2018-01-26 01:21:49 pm  ==  [192.168.43.1] baut - No verbose. (b) Auto mode!
+2018-01-26 01:21:49 pm  ==  [192.168.43.1] baut - No verbose. (b) Auto mode!
+2018-01-26 01:21:49 pm  ==  [192.168.43.1] baut - No verbose. (b) Auto mode!
+2018-01-26 01:22:46 pm  ==  [192.168.43.1] init - PINs Init
+2018-01-26 01:22:47 pm  ==  [192.168.43.1] boff - Pin11 HIGH (relay 1 OFF)
+2018-01-26 01:22:49 pm  ==  [192.168.43.1] foff - Pin13 HIGH (relay 2 OFF)
+2018-01-26 01:22:50 pm  ==  [192.168.43.1] xoff - Pin15 HIGH (relay 3 OFF)
+2018-01-26 01:22:59 pm  ==  [192.168.43.1] xon  - Pin15 LOW (relay 3 ON)
+2018-01-26 01:23:01 pm  ==  [192.168.43.1] fon  - Pin13 LOW (relay 2 ON)
+2018-01-26 01:23:03 pm  ==  [192.168.43.1] bon  - Pin11 LOW (relay 1 ON)
+2018-01-26 01:23:07 pm  ==  [192.168.43.1] baut - No verbose. (b) Auto mode!
+2018-01-26 01:23:07 pm  ==  [192.168.43.1] boff - Pin11 HIGH (relay 1 OFF)
+2018-01-26 01:25:03 pm  ==  [192.168.43.1] baut - No verbose. (b) Auto mode!
+2018-01-26 01:25:03 pm  ==  [192.168.43.1] baut - No verbose. (b) Auto mode!
+2018-01-26 01:25:03 pm  ==  [192.168.43.1] baut - No verbose. (b) Auto mode!
+2018-01-26 01:25:03 pm  ==  [192.168.43.1] baut - No verbose. (b) Auto mode!
+2018-01-27 07:11:55 pm  ==  [192.168.43.195] init - PINs Init
+2018-01-27 07:11:57 pm  ==  [192.168.43.195] boff - Pin11 HIGH (relay 1 OFF)
+2018-01-27 07:11:58 pm  ==  [192.168.43.195] bon  - Pin11 LOW (relay 1 ON)
+2018-01-27 07:11:59 pm  ==  [192.168.43.195] foff - Pin13 HIGH (relay 2 OFF)
+2018-01-27 07:12:01 pm  ==  [192.168.43.195] xon  - Pin15 LOW (relay 3 ON)
+2018-01-27 07:12:03 pm  ==  [192.168.43.195] xoff - Pin15 HIGH (relay 3 OFF)
+2018-01-27 07:12:05 pm  ==  [192.168.43.195] fon  - Pin13 LOW (relay 2 ON)
+2018-01-27 07:12:07 pm  ==  [192.168.43.195] xon  - Pin15 LOW (relay 3 ON)
+2018-01-27 07:12:17 pm  ==  [192.168.43.195] xoff - Pin15 HIGH (relay 3 OFF)
+2018-01-27 07:12:17 pm  ==  [192.168.43.195] foff - Pin13 HIGH (relay 2 OFF)
+2018-01-27 07:12:18 pm  ==  [192.168.43.195] foff - Pin13 HIGH (relay 2 OFF)
+2018-01-27 07:12:19 pm  ==  [192.168.43.195] boff - Pin11 HIGH (relay 1 OFF)
+2018-01-27 07:20:49 pm  ==  [::1] init - PINs Init
+2018-01-29 01:13:44 pm  ==  [::1] boff - Pin11 HIGH (relay 1 OFF)
+2018-01-29 01:13:45 pm  ==  [::1] bon  - Pin11 LOW (relay 1 ON)
+2018-01-29 01:13:47 pm  ==  [::1] foff - Pin13 HIGH (relay 2 OFF)
+2018-01-29 01:13:49 pm  ==  [::1] fon  - Pin13 LOW (relay 2 ON)
+2018-01-29 01:13:50 pm  ==  [::1] xoff - Pin15 HIGH (relay 3 OFF)
+2018-01-29 01:13:52 pm  ==  [::1] xon  - Pin15 LOW (relay 3 ON)
+2018-01-29 01:15:10 pm  ==  [::1] boff - Pin11 HIGH (relay 1 OFF)
+2018-01-29 01:15:12 pm  ==  [::1] bon  - Pin11 LOW (relay 1 ON)
+2018-01-29 01:15:14 pm  ==  [::1] foff - Pin13 HIGH (relay 2 OFF)
+2018-01-29 01:15:14 pm  ==  [::1] fon  - Pin13 LOW (relay 2 ON)
+2018-01-29 01:15:17 pm  ==  [::1] foff - Pin13 HIGH (relay 2 OFF)
+2018-01-29 01:15:19 pm  ==  [::1] fon  - Pin13 LOW (relay 2 ON)
+2018-01-29 01:15:20 pm  ==  [::1] xoff - Pin15 HIGH (relay 3 OFF)
+2018-01-29 01:15:22 pm  ==  [::1] xon  - Pin15 LOW (relay 3 ON)
+2018-01-29 01:29:20 pm  ==  [::1] init - PINs Init
+2018-01-29 01:30:40 pm  ==  [::1] init - PINs Init
+2018-01-29 01:36:26 pm  ==  [::1] init - PINs Init
+2018-01-29 01:38:44 pm  ==  [::1] init - PINs Init
+2018-01-29 01:43:52 pm  ==  [::1] init - PINs Init
+2018-01-29 01:46:59 pm  ==  [192.168.1.40] init - PINs Init
+2018-01-29 01:47:20 pm  ==  [192.168.1.40] boff - Pin11 HIGH (relay 1 OFF)
+2018-01-29 01:47:22 pm  ==  [192.168.1.40] foff - Pin13 HIGH (relay 2 OFF)
+2018-01-29 01:47:22 pm  ==  [192.168.1.40] xoff - Pin15 HIGH (relay 3 OFF)
+2018-01-29 01:47:25 pm  ==  [192.168.1.40] bon  - Pin11 LOW (relay 1 ON)
+2018-01-29 01:47:26 pm  ==  [192.168.1.40] fon  - Pin13 LOW (relay 2 ON)
+2018-01-29 01:47:28 pm  ==  [192.168.1.40] xon  - Pin15 LOW (relay 3 ON)
+2018-01-29 01:49:17 pm  ==  [192.168.1.207] init - PINs Init
+2018-01-29 01:49:27 pm  ==  [192.168.1.207] foff - Pin13 HIGH (relay 2 OFF)
+2018-01-29 01:49:31 pm  ==  [192.168.1.207] boff - Pin11 HIGH (relay 1 OFF)
+2018-01-29 01:49:35 pm  ==  [192.168.1.207] xoff - Pin15 HIGH (relay 3 OFF)
+2018-01-29 01:49:39 pm  ==  [192.168.1.207] fon  - Pin13 LOW (relay 2 ON)
+2018-01-29 01:49:41 pm  ==  [192.168.1.207] bon  - Pin11 LOW (relay 1 ON)
+2018-01-29 01:49:43 pm  ==  [192.168.1.207] xon  - Pin15 LOW (relay 3 ON)
+2018-01-29 01:50:00 pm  ==  [192.168.1.207] foff - Pin13 HIGH (relay 2 OFF)
+2018-01-29 01:50:01 pm  ==  [192.168.1.207] boff - Pin11 HIGH (relay 1 OFF)
+2018-01-29 01:50:02 pm  ==  [192.168.1.207] xoff - Pin15 HIGH (relay 3 OFF)
+2018-01-29 01:50:04 pm  ==  [192.168.1.207] xon  - Pin15 LOW (relay 3 ON)
+2018-01-29 01:50:06 pm  ==  [192.168.1.207] bon  - Pin11 LOW (relay 1 ON)
+2018-01-29 01:50:07 pm  ==  [192.168.1.207] fon  - Pin13 LOW (relay 2 ON)
+2018-01-29 01:50:10 pm  ==  [192.168.1.207] xoff - Pin15 HIGH (relay 3 OFF)
+2018-01-29 01:50:11 pm  ==  [192.168.1.207] boff - Pin11 HIGH (relay 1 OFF)
+2018-01-29 01:50:12 pm  ==  [192.168.1.207] bon  - Pin11 LOW (relay 1 ON)
+2018-01-29 01:50:14 pm  ==  [192.168.1.207] xon  - Pin15 LOW (relay 3 ON)
+2018-01-29 01:50:15 pm  ==  [192.168.1.207] foff - Pin13 HIGH (relay 2 OFF)
+2018-01-29 01:50:16 pm  ==  [192.168.1.207] boff - Pin11 HIGH (relay 1 OFF)
+2018-01-29 01:50:17 pm  ==  [192.168.1.207] xoff - Pin15 HIGH (relay 3 OFF)
+2018-01-29 01:50:18 pm  ==  [192.168.1.207] xon  - Pin15 LOW (relay 3 ON)
+2018-01-29 01:50:19 pm  ==  [192.168.1.207] fon  - Pin13 LOW (relay 2 ON)
+2018-01-29 01:50:19 pm  ==  [192.168.1.207] bon  - Pin11 LOW (relay 1 ON)
+2018-01-29 01:50:27 pm  ==  [192.168.1.207] fon  - Pin13 LOW (relay 2 ON)
+2018-01-29 01:50:28 pm  ==  [192.168.1.207] bon  - Pin11 LOW (relay 1 ON)
+2018-01-29 01:50:30 pm  ==  [192.168.1.207] xon  - Pin15 LOW (relay 3 ON)
+2018-01-29 01:51:16 pm  ==  [::1] init - PINs Init
+2018-01-29 01:51:24 pm  ==  [192.168.1.207] init - PINs Init
+2018-01-29 01:51:25 pm  ==  [192.168.1.207] init - PINs Init
+2018-01-29 01:51:27 pm  ==  [192.168.1.207] init - PINs Init
+2018-01-29 01:51:28 pm  ==  [192.168.1.207] init - PINs Init
+2018-01-29 01:52:19 pm  ==  [::1] init - PINs Init
+2018-01-29 01:52:32 pm  ==  [::1] init - PINs Init
+2018-01-29 01:52:43 pm  ==  [::1] init - PINs Init
+2018-01-29 01:52:51 pm  ==  [::1] init - PINs Init
+2018-01-29 01:52:57 pm  ==  [::1] init - PINs Init
+2018-01-29 01:56:13 pm  ==  [::1] init - PINs Init
+2018-01-29 01:58:30 pm  ==  [::1] init - PINs Init
+2018-01-29 01:59:58 pm  ==  [::1] init - PINs Init
+2018-01-29 02:03:18 pm  ==  [192.168.1.207] init - PINs Init
+2018-01-29 02:04:38 pm  ==  [::1] init - PINs Init
+2018-01-29 02:05:57 pm  ==  [192.168.1.207] init - PINs Init
+2018-01-29 02:06:15 pm  ==  [::1] init - PINs Init
+2018-01-29 02:08:34 pm  ==  [::1] init - PINs Init
+2018-01-29 02:08:48 pm  ==  [192.168.1.207] init - PINs Init
+2018-01-29 02:09:01 pm  ==  [192.168.1.207] init - PINs Init
+2018-01-29 02:09:05 pm  ==  [::1] init - PINs Init
+2018-01-29 02:09:28 pm  ==  [::1] init - PINs Init
+2018-01-29 02:10:17 pm  ==  [::1] init - PINs Init
+2018-01-29 02:10:33 pm  ==  [::1] init - PINs Init
+2018-01-29 02:14:03 pm  ==  [::1] init - PINs Init
+2018-01-29 02:14:46 pm  ==  [::1] init - PINs Init
+2018-01-29 02:15:17 pm  ==  [::1] init - PINs Init
+2018-01-29 02:15:30 pm  ==  [192.168.1.207] init - PINs Init
+2018-01-29 02:15:43 pm  ==  [192.168.1.207] init - PINs Init
+2018-01-29 02:16:03 pm  ==  [192.168.1.207] foff - Pin13 HIGH (relay 2 OFF)
+2018-01-29 02:16:05 pm  ==  [::1] init - PINs Init
+2018-01-29 02:16:05 pm  ==  [192.168.1.207] fon  - Pin13 LOW (relay 2 ON)
+2018-01-29 02:17:14 pm  ==  [::1] init - PINs Init
+2018-01-29 02:17:53 pm  ==  [192.168.1.207] init - PINs Init
+2018-01-29 02:18:01 pm  ==  [192.168.1.207] init - PINs Init
+2018-01-29 02:18:03 pm  ==  [192.168.1.207] boff - Pin11 HIGH (relay 1 OFF)
+2018-01-29 02:18:04 pm  ==  [192.168.1.207] foff - Pin13 HIGH (relay 2 OFF)
+2018-01-29 02:18:05 pm  ==  [192.168.1.207] xoff - Pin15 HIGH (relay 3 OFF)
+2018-01-29 02:18:31 pm  ==  [192.168.1.207] init - PINs Init
+2018-01-29 02:19:22 pm  ==  [::1] bon  - Pin11 LOW (relay 1 ON)
+2018-01-29 02:19:24 pm  ==  [::1] fon  - Pin13 LOW (relay 2 ON)
+2018-01-29 02:19:24 pm  ==  [::1] xon  - Pin15 LOW (relay 3 ON)
+2018-01-29 02:19:40 pm  ==  [192.168.1.207] init - PINs Init
